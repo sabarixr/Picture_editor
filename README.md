@@ -27,3 +27,7 @@ Follow the steps below to set up and run the application on your local machine.
  
    npm run electron-start
 
+##### I have included a video you can look into into to understandt the working of the app
+
+
+
