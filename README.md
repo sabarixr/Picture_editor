@@ -17,3 +17,13 @@ Follow the steps below to set up and run the application on your local machine.
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
+   cd your-repo
+   
+   npm install
+   
+   npm install electron --save-dev
+
+   npm start
+ 
+   npm run electron-start
+
