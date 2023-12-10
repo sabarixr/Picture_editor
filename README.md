@@ -15,7 +15,7 @@ Follow the steps below to set up and run the application on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/sabarixr/Picture_editor.git
 
    cd your-repo
    
